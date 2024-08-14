@@ -18,8 +18,9 @@ This project was developed for a non-profit organization, NotTheRealWikipedia, t
   - `original_dataset.csv`: The original, uncleaned, and unlabelled dataset provided for the project.
   - `final_df.xlsx`: The cleaned and filtered dataset, including the 100 labeled data points used for clarity detection.
 - notebooks/: Jupyter notebooks detailing additional analysis, feature engineering, model development, and evaluation.
- Task 1: Topic Classification
- Objective
+
+Task 1: Topic Classification
+Objective:
 Classify a paragraph into one of the following categories:
 - Artificial Intelligence
 - Movies about Artificial Intelligence
